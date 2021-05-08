@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765338597468",
+    "project_id": "pho-pro",
+    "storage_bucket": "pho-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765338597468:android:6897aaeee17c3970d14e99",
+        "android_client_info": {
+          "package_name": "com.shukla37.pho_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765338597468-5n60bg58ifrkp8patl4unc5387ptlelg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbRJt-wzLfHsW_8nTmYTsGzjvB-7oOOwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765338597468-5n60bg58ifrkp8patl4unc5387ptlelg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
